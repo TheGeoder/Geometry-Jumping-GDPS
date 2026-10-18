@@ -4,7 +4,7 @@
         android:label="Geometry Jumping GDPS"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity
-            android:name="android.app.Activity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
